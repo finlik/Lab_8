@@ -31,5 +31,5 @@ while  True:
     
     print ('Выпавшие номера: ', numbers)
     logging.info(f'Programm printed all numbers: {numbers}')
-    break
     logging.info('Programms end')
+    break
