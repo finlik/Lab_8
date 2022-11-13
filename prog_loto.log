@@ -1,0 +1,57 @@
+2022-11-13 16:55:27,229 INFO User started program
+2022-11-13 16:55:30,640 INFO Users input 7
+2022-11-13 16:55:30,646 INFO Program printed 4
+2022-11-13 16:55:33,936 INFO Program printed 6
+2022-11-13 16:55:35,009 INFO Program printed 1
+2022-11-13 16:55:35,430 INFO Program printed 2
+2022-11-13 16:55:35,872 INFO Program printed 7
+2022-11-13 16:55:37,007 INFO Program printed 3
+2022-11-13 16:55:38,005 INFO Program printed 5
+2022-11-13 16:55:39,368 INFO Programm printed all numbers: [4, 6, 1, 2, 7, 3, 5]
+2022-11-13 16:55:45,423 INFO Programms end
+2022-11-13 16:56:05,461 INFO User started program
+2022-11-13 16:56:08,058 INFO Users input 13
+2022-11-13 16:56:08,066 INFO Program printed 1
+2022-11-13 16:56:08,762 INFO Program printed 5
+2022-11-13 16:56:09,044 INFO Program printed 9
+2022-11-13 16:56:09,269 INFO Program printed 12
+2022-11-13 16:56:09,459 INFO Program printed 8
+2022-11-13 16:56:10,048 INFO Program printed 13
+2022-11-13 16:56:10,485 INFO Program printed 4
+2022-11-13 16:56:11,216 INFO Program printed 6
+2022-11-13 16:56:11,461 INFO Program printed 11
+2022-11-13 16:56:13,255 INFO Program printed 7
+2022-11-13 16:56:14,508 INFO Program printed 2
+2022-11-13 16:56:15,006 INFO Program printed 3
+2022-11-13 16:56:17,047 INFO Program printed 10
+2022-11-13 16:56:17,946 INFO Programm printed all numbers: [1, 5, 9, 12, 8, 13, 4, 6, 11, 7, 2, 3, 10]
+2022-11-13 16:56:18,344 INFO Programms end
+2022-11-13 16:56:45,930 INFO User started program
+2022-11-13 16:56:47,743 INFO Users input 25
+2022-11-13 16:56:47,751 INFO Program printed 5
+2022-11-13 16:56:48,334 INFO Program printed 3
+2022-11-13 16:56:48,620 INFO Program printed 22
+2022-11-13 16:56:48,874 INFO Program printed 18
+2022-11-13 16:56:49,111 INFO Program printed 21
+2022-11-13 16:56:49,317 INFO Program printed 6
+2022-11-13 16:56:49,522 INFO Program printed 2
+2022-11-13 16:56:49,702 INFO Program printed 8
+2022-11-13 16:56:49,888 INFO Program printed 7
+2022-11-13 16:56:50,063 INFO Program printed 19
+2022-11-13 16:56:50,250 INFO Program printed 12
+2022-11-13 16:56:51,538 INFO Program printed 15
+2022-11-13 16:56:51,775 INFO Program printed 17
+2022-11-13 16:56:51,989 INFO Program printed 9
+2022-11-13 16:56:54,393 INFO Program printed 20
+2022-11-13 16:56:54,839 INFO Program printed 14
+2022-11-13 16:56:55,323 INFO Program printed 24
+2022-11-13 16:56:56,373 INFO Program printed 23
+2022-11-13 16:56:58,335 INFO Program printed 11
+2022-11-13 16:56:59,097 INFO Program printed 10
+2022-11-13 16:56:59,429 INFO Program printed 1
+2022-11-13 16:56:59,641 INFO Program printed 4
+2022-11-13 16:56:59,851 INFO Program printed 25
+2022-11-13 16:57:00,134 INFO Program printed 13
+2022-11-13 16:57:05,952 INFO Program printed 16
+2022-11-13 16:57:06,406 INFO Programm printed all numbers: [5, 3, 22, 18, 21, 6, 2, 8, 7, 19, 12, 15, 17, 9, 20, 14, 24, 23, 11, 10, 1, 4, 25, 13, 16]
+2022-11-13 16:57:07,346 INFO Programms end
